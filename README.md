@@ -25,7 +25,7 @@ A browser-based image editor built using HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-(Add your Vercel link here)
+https://image-editor-tau-smoky.vercel.app/
 
 ## Author
 
